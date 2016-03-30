@@ -1,2 +1,2 @@
-# andriod-ijkplayer-samlpe
-the ijkplayer's sample for andorid  
+# andriod-ijkplayer-sample
+the ijkplayer's sample for android
